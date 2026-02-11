@@ -3,7 +3,7 @@
   <h1>¡Hola! Soy Johan Raul 👋</h1>
   <p><strong>Ingeniero de Sistemas | Full Stack Developer | ML & Trading Bot Developer</strong></p>
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=TU_USUARIO_GITHUB.TU_USUARIO_GITHUB&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Poxi-JRMC.Poxi-JRMC&" />
 </div>
 
 ### 👩‍💻 Sobre Mí
@@ -28,15 +28,15 @@ Soy un Ingeniero de Sistemas enfocado en el desarrollo de soluciones escalables 
 ### 🔥 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=dracula&count_private=true" height="170" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=dracula" height="170" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Poxi-JRMC&show_icons=true&theme=dracula&count_private=true" height="170" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poxi-JRMC&theme=dracula" height="170" alt="streak" />
 </div>
 
 ### 🕹️ Contribuciones Estilo Pac-Man
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/TU_USUARIO_GITHUB/TU_USUARIO_GITHUB/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Poxi-JRMC/Poxi-JRMC/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Poxi-JRMC/Poxi-JRMC/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Poxi-JRMC/Poxi-JRMC/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
@@ -44,10 +44,10 @@ Soy un Ingeniero de Sistemas enfocado en el desarrollo de soluciones escalables 
 ### 🤝 Conectemos
 
 <div align="center">
-  <a href="https://linkedin.com/in/TU_LINK_LINKEDIN">
+  <a href="https://linkedin.com/in/johan-raul-mamani-cañari">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
   </a>
-  <a href="mailto:TU_CORREO@gmail.com">
+  <a href="mailto:johanraulmamanicanari@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
   </a>
 </div>
