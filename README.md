@@ -32,7 +32,7 @@ Soy un Ingeniero de Sistemas enfocado en el desarrollo de soluciones escalables 
 ### 🔥 Mis Estadísticas Profesionales
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Poxi-JRMC&show_icons=true&theme=dracula&count_private=true" height="180" alt="Estadísticas" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Poxi-JRMC&theme=dracula" height="180" alt="Racha" />
 </p>
 
